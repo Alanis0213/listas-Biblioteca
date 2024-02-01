@@ -55,39 +55,48 @@ Proporciona información general sobre el propósito y la funcionalidad del proy
     - Identificar el cliente con la mayor compra por venta.
     - Identificar el cliente con el mayor volumen de compra total.
 
-## Instrucciones de Uso
+## Requisitos del Sistema
 
-Proporciona instrucciones claras y concisas sobre cómo utilizar el proyecto.
+    - Python 3.x
+    - Consola o entorno compatible con la ejecución de Python.
+
+## Instalación
+1. Clona o descarga el repositorio.
+2. Ejecuta el script main.py desde tu terminal o entorno de desarrollo.
+
+
+## Instrucciones de Uso
+1. Interactuar con el Menú Principal:
+
+    Una vez que el script esté en ejecución, se presentará un menú principal con opciones numeradas. dodne debe ingresa el número correspondiente a la operación que deseas realizar y presiona Enter, para que se ejecute la opcion.
+
+2. Explorar las Funcionalidades:
+
+    Se presentarán menús secundarios según la opción seleccionada. Sigue las instrucciones en la consola para interactuar con las funcionalidades específicas, como ingresar clientes, libros, ventas entre otras opciones.
+
+3. Salir del Programa:
+
+    Una vez quieras finalizar la ejecucion del programa,puedes seleccionar la opción para salir del programa.
 
 ## Estructura del Proyecto
 
-Describe la estructura del proyecto, especialmente si hay directorios importantes o módulos clave.
+El proyecto se organiza en módulos que abordan distintas áreas del sistema, como clientes, libros, ventas y estadísticas. Cada módulo contiene funciones específicas para realizar las operaciones relacionadas con su área correspondiente.
 
-## Requisitos del Sistema
-
-Enumera los requisitos del sistema necesarios para ejecutar el proyecto.
-
-## Instalación
-
-Proporciona pasos detallados sobre cómo instalar el proyecto.
 
 ## Configuración
 
-Explica cualquier configuración adicional necesaria después de la instalación.
+No se requiere configuración adicional para el funcionamiento básico. Sin embargo, se pueden realizar ajustes en el código según las necesidades específicas del usuario.
 
 ## Uso
 
-Ofrece ejemplos de uso y capturas de pantalla si es posible.
+Una vez se decida utilizar el programa, siga las opciones proporcionadas, para asi realizar las distintas operaciones que el programa te ofrece ingresando la opcion segun el menu presentado.
 
 ## Contribuciones
 
-Indica cómo otros pueden contribuir al proyecto.
+Puedes contribuir en este codigo poniendo a prueba sus validaciones, creando una copia podras implementar los cambios que necesites, para adaptarlo a tus necesidades.
 
-## Licencia
-
-Explica la licencia bajo la cual se distribuye el proyecto.
 
 ## Contacto
 
-Proporciona información de contacto para los usuarios o contribuyentes.
+Para preguntas o comentarios, puedes contactarme a través de [correo electrónico](alanisdeavilat@gmail.com).
 
