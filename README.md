@@ -1,7 +1,5 @@
 # Biblioteca con listas
-
-
-
+ 
 ## Contenido
 
 1. [Información General](#información-general)
@@ -13,12 +11,11 @@
 7. [Configuración](#configuración)
 8. [Uso](#uso)
 9. [Contribuciones](#contribuciones)
-10. [Licencia](#licencia)
-11. [Contacto](#contacto)
+10. [Contacto](#contacto)
 
 ## Información General
 
-Este proyecto implementa un Sistema de Gestión de Librería en Python a travez de listas compuestas, este sistema ofrece diferentes fucniones para administrar clientes, libros y ventas dentro de una librería. A través de una interfaz de consola, los usuarios pueden realizar diversas operaciones, como ingresar clientes, registrar libros, realizar ventas y obtener estadísticas sobre las ventas reealizas y clientes
+Este proyecto implementa un Sistema de Gestión de Librería en Python a travez de listas compuestas, este sistema ofrece diferentes fucniones para administrar clientes, libros y ventas dentro de una librería. A través de una interfaz de consola, los usuarios pueden realizar diversas operaciones, como ingresar clientes, registrar libros, realizar ventas y obtener estadísticas sobre las ventas realizas y clientes
 ## Funcionalidades
 
 1. ### Clientes:
